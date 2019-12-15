@@ -1,7 +1,7 @@
 clear
 figlet Welcome | lolcat
 echo "╒════════════════════════════════════╕" | lolcat
-  echo "author :mr.van_404" | lolcat
+  echo "author :mr.TomCat" | lolcat
   echo "team   :Disconect Team Fight" | lolcat
   echo "no wa  :0896xxxxxx87" | lolcat
 echo "╘════════════════════════════════════╛" | lolcat
@@ -14,7 +14,7 @@ sleep 1
   echo "#2 install tools dark fb" | lolcat
   echo "#3 install tools rusmana" | lolcat
   echo "#4 install tools RED_HAAK" | lolcat
-  echo "#6 install username & password dark fb" | lolcat
+  echo "#6 install username&password dark fb&rusmana" | lolcat
   echo "#0 exit" | lolcat
 echo "╔════════════════════════════╗​" | lolcat
   read -p "MASUKAN PILIHAN ANDA:" pilih
